@@ -1,0 +1,12 @@
+hr {
+    width: 250px;
+}
+
+.orange-btn {    
+    color:#ffc107;
+
+  }
+
+  .orange-btn:hover {
+      color: grey;
+  }
